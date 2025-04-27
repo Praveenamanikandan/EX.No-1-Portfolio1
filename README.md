@@ -1,11 +1,11 @@
-Ex01 Portfolio
-Name: Praveena M
-Reg No: 212223040153
-Date:04/03/2025
-AIM
+## Ex01 Portfolio
+## Name: Praveena M
+## Reg No: 212223040153
+## Date:04/03/2025
+## AIM
 To create a Portfolio using HTML and CSS.
 
-ALGORITHM
+## ALGORITHM
 STEP 1
 Create an HTML file (index.html)
 
@@ -439,5 +439,5 @@ OUTPUT
 
 
 
-RESULT
+## RESULT
 The program for creating Portfolio using HTML and CSS is executed successfully.
