@@ -144,7 +144,6 @@ PROGRAM
     </div>
   </section>
   
-  <!-- Font Awesome (Place this before closing </body> if not added already) -->
   <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
   
 </body>
